@@ -9,12 +9,12 @@
 
 ## Olá, seja bem-vindo ao meu perfil! 👋
 
-Meu nome é Caio, sou desenvolvedor na **[Konfidency](https://github.com/Konfidency)** e estou cursando [SEU CURSO] na [SUA FACULDADE], em São Paulo. Também faço parte do **[WeUnite](https://github.com/WeUnite-Social-Media/weunite)**, uma rede social que estamos construindo do zero. Gosto de conhecer gente nova e trocar ideia sobre tecnologia, então fique à vontade para me chamar!
+Meu nome é Caio, sou desenvolvedor na **[Konfidency](https://github.com/Konfidency)** e estou cursando Análise e Desenvolvimento de Sistemas (ADS) na Fatec Ipiranga, em São Paulo. Também faço parte do **[WeUnite](https://github.com/WeUnite-Social-Media/weunite)**, uma rede social que estamos construindo do zero. Gosto de conhecer gente nova e trocar ideia sobre tecnologia, então fique à vontade para me chamar!
 
 ## 🛠️ Tecnologias e ferramentas
 
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,react,nodejs,nextjs,tailwind,git,docker" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,flutter,react,nodejs,nextjs,tailwind,git,docker" />
 </p>
 
 ## 📊 Estatísticas
@@ -28,5 +28,5 @@ Meu nome é Caio, sou desenvolvedor na **[Konfidency](https://github.com/Konfide
 - 💼 Desenvolvedor na Konfidency
 - 🔭 Trabalhando no **WeUnite** com TypeScript
 - 🤖 Explorando IA com o **[konfidency-picker-ai](https://github.com/CaioGodas/konfidency-picker-ai)**
-- 🌱 Aprendendo: _escreva aqui_
+- 🌱 Aprendendo: desenvolvimento web e mobile com as ferramentas do WeUnite (React, Vite, Spring Boot, Expo, PostgreSQL, Docker e Turborepo)
 - 💬 Tem alguma pergunta ou sugestão? É só me contatar
